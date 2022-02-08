@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #E5E5E5;
+    background-color: white;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -41,9 +41,10 @@ input::placeholder {
     font-size: 13px;
     line-height: 15px; 
     text-decoration: none;
-    display: block;
+    width: 250px;
+    display: inline-block;
     text-align: right;
-    margin: 35px 30px 38px 0;
+    margin: 35px 30px 38px 570px;
 }
 
  button {
